@@ -80,7 +80,7 @@ Microsoft Excel (Advanced BI Features)
 - Established relationships between tables: Customer ↔ Sales, Market ↔ Sales, Product ↔ Sales, Date ↔ Sales.
 - Built a star schema model for flexible reporting.
 
-[Data model Screenshot](Data Model Screenshot.png)
+[Data model Screenshot](Data%20Model%20Screenshot.png)
 
 - **DAX Measures:**
 
